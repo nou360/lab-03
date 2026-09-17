@@ -2,16 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Chaudhry Ali Aftab`
+- **CCID:** `caftab`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+`Claude - Used to explain the participation part and helped debug`
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+|     Student Name        |          CCID         |
+|     ------------        |        ---------      |
+| `Shaikh Abdul Karim`    |       `Shaikhab`      |
+| `Aarish Nayer`          |       `Aarish`        |
